@@ -33,7 +33,6 @@
         "guzzle/guzzle": "~3.9",
         "white-october/pagerfanta-bundle": "~1.0",
         "phpoffice/phpexcel": "~1.8",
-        "kunstmaan/google-api-custom": "~1.0",
         "ddeboer/data-import-bundle": "~0.1",
         "gedmo/doctrine-extensions": "~2.3",
         "lunetics/locale-bundle": "~2.4",
